@@ -1,1 +1,3 @@
 a.output
+build/*
+log/*

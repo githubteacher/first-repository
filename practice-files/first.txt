@@ -4,7 +4,7 @@ This is the next line
 third line
 fifth line in file
 
-And this is my last line.
+And this is not my last line.
 
-ninth
+Ninth line of the file.
 Really last tenth line.

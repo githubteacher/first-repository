@@ -1,3 +1,5 @@
 a.output
 build/*
 log/
+!build/README.md
+!log/README.md
